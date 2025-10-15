@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Article 1",
+    "image": "https://picsum.photos/200/300?random=1",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr."
+  },
+  {
+    "title": "Article 2",
+    "image": "https://picsum.photos/200/300?random=2",
+    "description": "Sed diam nonumy eirmod tempor invidunt ut labore."
+  },
+  {
+    "title": "Article 3",
+    "image": "https://picsum.photos/200/300?random=3",
+    "description": "Et dolore magna aliquyam erat, sed diam voluptua."
+  },
+  {
+    "title": "Article 4",
+    "image": "https://picsum.photos/200/300?random=4",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr."
+  },
+  {
+    "title": "Article 5",
+    "image": "https://picsum.photos/200/300?random=5",
+    "description": "Sed diam nonumy eirmod tempor invidunt ut labore."
+  },
+  {
+    "title": "Article 6",
+    "image": "https://picsum.photos/200/300?random=6",
+    "description": "Et dolore magna aliquyam erat, sed diam voluptua."
+  }
+]
